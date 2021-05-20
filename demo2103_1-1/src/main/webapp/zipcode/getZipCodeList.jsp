@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>getZipCodeList - [webapp]</title>
 </head>
 <body>
-index.jsp
+우편번호 검색기 페이지입니다.
 </body>
 </html>
